@@ -24,8 +24,6 @@ I am Kevin Ros M. Lisboa, a passionate coder with strong database management ski
 - **Tools**: Lucidchart, Jaspersoft Studio, Eclipse, HTML
 
 ## Let's Connect
-
-- LinkedIn: [LinkedIn Profile](LinkedIn_Profile_Link)
 - Email: Kevinmlisboa@gmail.com
 
 Feel free to reach out if you have any questions or just want to connect!
